@@ -1,0 +1,1 @@
+# This is a mini project which demonstrates use of column keyword with responsiveness
